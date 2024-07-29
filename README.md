@@ -69,7 +69,7 @@ python Game.py
 ```sh
 # if you want to use the mouth to control the game
 python mouthCon.py  
-# if you want to jump to contro the game
+# if you want to jump to control the game
 python jumpCon.py
 ```
 - **Note: Click the game window before starting the controller.**
