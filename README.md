@@ -10,11 +10,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<!-- 使用markdown的video标签来插入视频 -->
 <div align="center">
-<video src="src/demo1.mp4" width="400" height="200"></video>
+<video src="src/demo1.gif" width="400" height="200"></video>
 </div>
 <div align="center">
-<video src="src/demo2.mp4" width="400" height="200"></video>
+<video src="src/demo2.gif" width="400" height="200"></video>
 </div>
 You can use your mouth or jump to control the dinosaur.
 
