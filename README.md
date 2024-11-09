@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="data/logo.png" alt="logo" width="50" height="60">
+  <img src="src/logo.png" alt="logo" width="50" height="60">
 
 <h3 align="center">DinoController</h3>
 
@@ -11,10 +11,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <div align="center">
-<img src="data/demo1.png" alt="demo1" width="400" height="200">
+<video src="src/demo1.mp4" width="400" height="200"></video>
 </div>
-This is a simple controller for the Dino game. You can use the mouth to control the game or jump to control the game.
-
+<div align="center">
+<video src="src/demo2.mp4" width="400" height="200"></video>
+</div>
+You can use your mouth or jump to control the dinosaur.
 
 
 ## Quick Start
