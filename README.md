@@ -44,7 +44,7 @@ python Game.py
 
 4.Open a new terminal and start the controller
 ```bash
-# if you want to use the mouth to control the game
+# if you want to use your mouth to control the game
 python mouthCon.py  
 # if you want to jump to control the game
 python jumpCon.py
