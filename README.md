@@ -49,7 +49,7 @@ python mouthCon.py
 # if you want to jump to control the game
 python jumpCon.py
 ```
-> **Note: Please click the game window before starting the controller.**
+> **Note: Please click the game window before starting.**
 
 
 
