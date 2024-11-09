@@ -12,10 +12,10 @@
 ## About The Project
 <!-- 使用markdown的video标签来插入视频 -->
 <div align="center">
-<img src="https://github.com/qqizhao/DinoController/blob/main/src/demo1.gif" width="400" height="200"></img>
+<img src="src/demo1.gif" width="600" ></img>
 </div>
 <div align="center">
-<img src="https://github.com/qqizhao/DinoController/blob/main/src/demo2.gif" width="400" height="200"></img>
+<img src="src/demo2.gif" width="600" ></img>
 </div>
 You can use your mouth or jump to control the dinosaur.
 
